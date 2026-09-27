@@ -26,10 +26,11 @@ venv/
 ENV/
 env/
 
-# Logs & Captures
+# Logs & Captures & Reports
 *.log
 *.pcap
 alerts.json
+report_summary.txt
 output/
 
 # IDE settings
