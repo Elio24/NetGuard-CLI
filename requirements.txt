@@ -1,0 +1,3 @@
+# NetGuard-CLI Dependencies
+scapy>=2.5.0
+rich>=13.0.0
