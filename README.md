@@ -68,7 +68,3 @@ Pour exécuter la suite de tests unitaires :
 ```bash
 python -m unittest discover -s tests
 ```
-
-## Licence
-
-MIT
