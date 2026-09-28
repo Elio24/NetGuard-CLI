@@ -24,7 +24,6 @@ NetGuard-CLI/
 ├── tests/
 │   ├── test_parser.py    # Tests unitaires du parser
 │   └── test_analyzer.py  # Tests unitaires du moteur de détection
-├── INTERVIEW_PREP.md     # Explications techniques et concepts réseau
 ├── requirements.txt
 └── README.md
 ```
